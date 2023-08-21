@@ -1,0 +1,17 @@
+C:\tp2\Clase2ConceptosVariosSolution\Clase2ConceptosVarios\bin\Debug\net6.0-windows\Clase2ConceptosVarios.exe
+C:\tp2\Clase2ConceptosVariosSolution\Clase2ConceptosVarios\bin\Debug\net6.0-windows\Clase2ConceptosVarios.deps.json
+C:\tp2\Clase2ConceptosVariosSolution\Clase2ConceptosVarios\bin\Debug\net6.0-windows\Clase2ConceptosVarios.runtimeconfig.json
+C:\tp2\Clase2ConceptosVariosSolution\Clase2ConceptosVarios\bin\Debug\net6.0-windows\Clase2ConceptosVarios.dll
+C:\tp2\Clase2ConceptosVariosSolution\Clase2ConceptosVarios\bin\Debug\net6.0-windows\Clase2ConceptosVarios.pdb
+C:\tp2\Clase2ConceptosVariosSolution\Clase2ConceptosVarios\obj\Debug\net6.0-windows\Clase2ConceptosVarios.csproj.AssemblyReference.cache
+C:\tp2\Clase2ConceptosVariosSolution\Clase2ConceptosVarios\obj\Debug\net6.0-windows\Clase2ConceptosVarios.Form1.resources
+C:\tp2\Clase2ConceptosVariosSolution\Clase2ConceptosVarios\obj\Debug\net6.0-windows\Clase2ConceptosVarios.csproj.GenerateResource.cache
+C:\tp2\Clase2ConceptosVariosSolution\Clase2ConceptosVarios\obj\Debug\net6.0-windows\Clase2ConceptosVarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\tp2\Clase2ConceptosVariosSolution\Clase2ConceptosVarios\obj\Debug\net6.0-windows\Clase2ConceptosVarios.AssemblyInfoInputs.cache
+C:\tp2\Clase2ConceptosVariosSolution\Clase2ConceptosVarios\obj\Debug\net6.0-windows\Clase2ConceptosVarios.AssemblyInfo.cs
+C:\tp2\Clase2ConceptosVariosSolution\Clase2ConceptosVarios\obj\Debug\net6.0-windows\Clase2ConceptosVarios.csproj.CoreCompileInputs.cache
+C:\tp2\Clase2ConceptosVariosSolution\Clase2ConceptosVarios\obj\Debug\net6.0-windows\Clase2ConceptosVarios.dll
+C:\tp2\Clase2ConceptosVariosSolution\Clase2ConceptosVarios\obj\Debug\net6.0-windows\refint\Clase2ConceptosVarios.dll
+C:\tp2\Clase2ConceptosVariosSolution\Clase2ConceptosVarios\obj\Debug\net6.0-windows\Clase2ConceptosVarios.pdb
+C:\tp2\Clase2ConceptosVariosSolution\Clase2ConceptosVarios\obj\Debug\net6.0-windows\Clase2ConceptosVarios.genruntimeconfig.cache
+C:\tp2\Clase2ConceptosVariosSolution\Clase2ConceptosVarios\obj\Debug\net6.0-windows\ref\Clase2ConceptosVarios.dll
